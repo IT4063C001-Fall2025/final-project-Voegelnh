@@ -1,8 +1,8 @@
-# Final-Project-Template
+# Internet Access
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
-
+The problem I want to address is the digital divide in internet access. Although the internet is essential for education, jobs, and daily life, many households and schools especially in rural or low-income areas that still lack reliable and affordable access. This gap limits learning opportunities, reduces economic mobility, and widens social inequality. My project will analyze patterns of internet access across countries and income groups to better understand where the disparities are greatest.
 ## Self Assessment and Reflection
 
 <!-- Edit the following section with your self assessment and reflection -->
@@ -12,20 +12,23 @@
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10 |
+| **Execution**     | 20 / 20 |
+| **Documentation** | 10 / 10 |
+| **Presentation**  | 30 / 30 |
+| **Total**         | 70 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
 #### What went well?
+I think my Explanation on what I am trying to do with this project.
 #### What did not go well?
+Originally 
 #### What did you learn?
+How to make folders in projects like this.
 #### What would you do differently next time?
-
+I think figure out how to make the data files more visually appealing
 ---
 
 ## Getting Started
